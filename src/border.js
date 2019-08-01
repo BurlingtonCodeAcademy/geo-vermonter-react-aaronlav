@@ -1,4 +1,4 @@
-const borderData = {
+let borderData = {
   "type": "Feature",
   "properties": {
     "name": "Vermont",
@@ -94,5 +94,4 @@ const borderData = {
     ]
   }
 }
-
-export default borderData;
+export default borderData
